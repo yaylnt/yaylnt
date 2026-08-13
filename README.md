@@ -10,6 +10,7 @@ I'm a frontend developer. Love digging into the details, building user-friendly 
 👯‍♀️ I'm open to collaborating
 
 📫 How to reach me: y.a.galkina17@gmail.com
+
 <a href="https://t.me/yulianaa_g">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto" alt="Telegram">
 </a>
